@@ -118,7 +118,7 @@
 **Training log**
 
 **RESULTS**
-![image](https://github.com/GunaKoppula/ERAV1-Session-18/assets/61241928/6b1dda64-ea44-4949-9305-0cdd9d761082)
+![image](https://github.com/GunaKoppula/ERAV1-Session-18/assets/61241928/43da43fa-d6d1-4580-b45e-8708033da0b5)
 
 
 ##### MaxPool + ConvTranspose + BCE Loss
